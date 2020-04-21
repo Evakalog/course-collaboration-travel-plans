@@ -51,10 +51,22 @@ h2 {
     text-shadow: 0 0 5px #01579b;
 }
 
+#athens {
+    background-color: coral;
+}
+
 #belize {
     background-color: #4dd0e1;
 }
 
 #barcelona {
     background-color: #800000;
+}
+
+#berlin {
+    background-color: #92a8d1;
+}
+
+#new_york {
+    background-color: rgb(201, 76, 76);
 }
